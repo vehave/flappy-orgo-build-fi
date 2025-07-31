@@ -2,7 +2,7 @@
 
 <a href="https://vehave.github.io/polynomial-bingo-build/" target="_blank"><img src="PlayNowButton.png" alt="Play now!"></a>
 
-Flappy Orgo on mukaansatempaava oppimispeli, joka on suunniteltu tekemään orgaanisen kemian opiskelu hauskaksi ja interaktiiviseksi. Tämä peli auttaa opiskelijoita hallitsemaan orgaanisten yhdisteiden nimiä ja rakennekaavoja, jotka ovat elintärkeitä menestykselle monilla tieteellisillä aloilla.
+Flappy Orgo on mukaansatempaava oppimispeli, joka on suunniteltu tekemään orgaanisen kemian opiskelusta hauskaa ja interaktiivista. Tämä peli auttaa opiskelijoita hallitsemaan orgaanisten yhdisteiden nimiä ja rakennekaavoja, jotka ovat elintärkeitä menestykselle monilla tieteellisillä aloilla.
 
 ## Ominaisuudet
 - Neljä kategoriaa:
