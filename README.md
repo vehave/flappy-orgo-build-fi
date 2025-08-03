@@ -1,6 +1,6 @@
 <img src="title.png" alt="Flappy Orgo">
 
-<a href="vehave.github.io/flappy-orgo-build-fi/" target="_blank"><img src="PlayNowButton.png" alt="Play now!"></a>
+<a href="https://vehave.github.io/flappy-orgo-build-fi/" target="_blank"><img src="PlayNowButton.png" alt="Play now!"></a>
 
 Flappy Orgo on mukaansatempaava oppimispeli, joka on suunniteltu tekemään orgaanisen kemian opiskelusta hauskaa ja interaktiivista. Tämä peli auttaa opiskelijoita hallitsemaan orgaanisten yhdisteiden nimiä ja rakennekaavoja, jotka ovat elintärkeitä menestykselle monilla tieteellisillä aloilla.
 
